@@ -5,7 +5,7 @@
 /// O método Executar solicita ao usuário se possui CNH e retorna uma mensagem apropriada
 /// baseada na resposta, utilizando o operador ternário para simplificar a lógica condicional.
 /// </summary>
-public static class VerificadorCHN
+public static class VerificadorCNH
 {
     /// <summary>
     /// Executa o exemplo de verificação de CNH.

@@ -28,7 +28,7 @@ while (continuar)
             VerificadorIdade.Executar();
             break;
         case "2":
-            VerificadorCHN.Executar();
+            VerificadorCNH.Executar();
             break;
         case "3":
             VerificadorEstacao.Executar();
